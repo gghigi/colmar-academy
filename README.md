@@ -1,7 +1,7 @@
 # colmar-academy
 Final project Bootstrap 5 landing page for a teaching website using HTML, CSS, Git, GitHub and Visual Code 
 
-![Colmar Academy hero Section](url)
+![Colmar Academy hero Section](/assets/images/colmarHeader.png)
 
 You can access the website at [Colmar Academy Website](https://gghigi.github.io/colmar-academy/)
 
