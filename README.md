@@ -5,7 +5,7 @@ Final project Bootstrap 5 landing page for a teaching website using HTML, CSS, G
 
 You can access the website at [Colmar Academy Website](https://gghigi.github.io/colmar-academy/)
 
-shields here
+[![GitHub issues](https://img.shields.io/github/issues/gghigi/colmar-academy)](https://github.com/gghigi/colmar-academy/issues) [![GitHub forks](https://img.shields.io/github/forks/gghigi/colmar-academy)](https://github.com/gghigi/colmar-academy/network) [![GitHub stars](https://img.shields.io/github/stars/gghigi/colmar-academy)](https://github.com/gghigi/colmar-academy/stargazers) [![GitHub license](https://img.shields.io/github/license/gghigi/colmar-academy)](https://github.com/gghigi/colmar-academy)
 
 ### Story
 
